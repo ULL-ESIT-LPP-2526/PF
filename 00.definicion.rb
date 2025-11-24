@@ -20,13 +20,13 @@ puts t5
 puts "===== se muestra el algoritmo ====="
 
 for i in 0...5
-  puts "#{t5[i][0]}: #{t5[i][1]}" 
+  p "#{t5[i][0]}: #{t5[i][1]}" 
 end
 
 puts "===== se especifica la solución ====="
 
-t5.each{ |word, count| puts "#{word}: #{count}"}
+t5.each{ |word, count| p "#{word}: #{count}"}
 
 puts "===== se dice cómo es la solución ===="
 
-puts t5.collect{|word, count| "#{word}: #{count}"}
+p t5.collect{|word, count| "#{word}: #{count}"}
