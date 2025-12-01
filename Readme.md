@@ -6,4 +6,5 @@ Uso de constantes. Efectos secundarios. Funciones de Orden Superior. Recursivida
 Programación funcional en Ruby:
 
 * Bloques
+* Clausuras (Proc - Lambda)
 
