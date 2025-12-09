@@ -7,4 +7,5 @@ Programación funcional en Ruby:
 
 * Bloques
 * Clausuras (Proc - Lambda)
-
+* Metaprogramación
+* Reflexión
